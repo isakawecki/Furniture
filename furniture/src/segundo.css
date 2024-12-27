@@ -1,0 +1,39 @@
+.seg{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 32px;
+    margin-top: 90px;
+}
+
+.pp{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.colecao{
+    scale: 100%;
+    height: 430px;
+    display: flex;
+    gap: 20px;
+   justify-content: center;
+   text-align: center;
+   margin-bottom: 100px;
+
+}
+
+
+
+.outra{
+   margin-top: 50px;
+   margin-bottom: 30px;
+  
+}
+
+.lado{
+    margin-top: 80px;
+   
+}
+

@@ -1,0 +1,66 @@
+.terceira{
+    background-color: #F2F5FF;
+    margin-top: 50px;
+    width: 100%;
+    
+}
+
+.ter{
+   font-size: 32px;
+   margin-left: 80px;
+   
+
+}
+
+.ppp{
+    font-size: 20px;
+   width: 514px;
+   font-weight: 300;
+   margin-left: 80px;
+   margin-bottom: 20px;
+   margin: 20px 90px 20px 80px
+}
+
+
+.terceira button {
+    background-color: #054c73;
+    color: white;
+    border: none;
+    text-align: center;
+    width: 50%; 
+    max-width: 200px;
+    height: 50px;
+    border-radius: 70px;
+    margin-left:80px;
+    margin-top: 5px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 600;
+}
+.terceira button:hover {
+    background-color: #04628b;
+    transform: scale(1.1);
+    
+}
+
+.terceira{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+
+.grupo{
+    display: flex;
+    flex-direction: column;
+}
+
+.terceira img{
+    width: 400px;
+    height: 540px;
+    border-radius: 50px 5px 50px 5px;
+    display: flex;
+    margin:100px 300px 100px 20px;
+    
+}
+
